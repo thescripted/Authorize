@@ -1,0 +1,2 @@
+# Authorize
+NextJS + AWS Authentication
